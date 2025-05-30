@@ -1,0 +1,32 @@
+/* //////לרה חור-211565445-502
+///////-313536633-אחמד זוביידאת-502-
+
+/////////////////->Event Listener<-///////////////////////
+/////////////////-HW-1-/////////////////////// */
+body {
+  background-color: #2e1f1f;
+color: #000;
+font-family: Arial, sans-serif;
+display: flex;
+justify-content: center;
+padding-top: 50px;
+}
+
+.review {
+background-color: #aa8282;
+padding: 20px;
+border-radius: 10px;
+max-width: 500px;
+text-align: center;
+}
+
+.toggle-button {
+  background-color: #8a7070;
+margin-top: 10px;
+padding: 5px 10px;
+cursor: pointer;
+}
+
+.more-text {
+display: none;
+}
